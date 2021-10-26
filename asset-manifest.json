@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/fn-simbaart/static/css/main.ee792b0a.chunk.css",
+    "main.js": "/fn-simbaart/static/js/main.7716a092.chunk.js",
+    "main.js.map": "/fn-simbaart/static/js/main.7716a092.chunk.js.map",
+    "runtime-main.js": "/fn-simbaart/static/js/runtime-main.46eb43fc.js",
+    "runtime-main.js.map": "/fn-simbaart/static/js/runtime-main.46eb43fc.js.map",
+    "static/js/2.93c2e288.chunk.js": "/fn-simbaart/static/js/2.93c2e288.chunk.js",
+    "static/js/2.93c2e288.chunk.js.map": "/fn-simbaart/static/js/2.93c2e288.chunk.js.map",
+    "index.html": "/fn-simbaart/index.html",
+    "static/css/main.ee792b0a.chunk.css.map": "/fn-simbaart/static/css/main.ee792b0a.chunk.css.map",
+    "static/js/2.93c2e288.chunk.js.LICENSE.txt": "/fn-simbaart/static/js/2.93c2e288.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/fn-simbaart/static/media/product.d30260fb.jpg",
+    "static/media/HeroSection.css": "/fn-simbaart/static/media/img-home.c034239e.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.46eb43fc.js",
+    "static/js/2.93c2e288.chunk.js",
+    "static/css/main.ee792b0a.chunk.css",
+    "static/js/main.7716a092.chunk.js"
+  ]
+}
